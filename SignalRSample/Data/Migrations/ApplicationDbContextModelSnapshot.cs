@@ -17,7 +17,7 @@ namespace SignalRSample.Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.0-preview.3.22175.1")
+                .HasAnnotation("ProductVersion", "7.0.0-preview.4.22229.2")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
